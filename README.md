@@ -1,4 +1,4 @@
-This repository has three files that are necessary to reproduce statistical analysis of proteomics data from Kotova et al., 2021 "Comparative Analysis of Dental Pulp and Periodontal Stem Cells: Differences in Morphology, Functionality, Osteogenic Differentiation and Proteome":
+This repository has three files that are necessary to reproduce statistical analysis of proteomics data from "Proteolytic degradation is the culprit behind a bioprosthetic heart valve failure":
 
 Files list:
 
